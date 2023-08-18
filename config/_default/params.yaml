@@ -7,7 +7,7 @@ description: >-
 images:
   - doks.png
 ogLocale: en_US
-domainTLD: doks.netlify.app
+domainTLD: kebabvpn.com
 titleHome: Doks Theme
 twitterSite: '@KebabVPN'
 twitterCreator: '@KebabVPN'
@@ -68,7 +68,7 @@ alertText: >-
   class="alert-link stretched-link"
   href="https://getdoks.org/blog/doks-v0.2/">Check out Doks v0.2</a>
 repoHost: GitHub
-docsRepo: 'https://github.com/h-enk/doks'
+docsRepo: 'https://github.com/KebabVPN'
 docsRepoBranch: master
 docsRepoSubPath: ''
 editPage: false
