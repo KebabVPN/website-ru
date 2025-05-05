@@ -1,6 +1,6 @@
 title: KebabVPN
 titleSeparator: '-'
-titleAddition: Secure VPN Gateway
+titleAddition: Защищенный VPN
 description: >-
   Doks is a Hugo theme for building secure, fast, and SEO-ready documentation
   websites, which you can easily update and customize.
@@ -59,7 +59,7 @@ imageAddClass: img-fluid lazyload blur-up
 defaultImage: default-image.png
 fillImage: 1270x740 Center
 footer: >-
-  Etlgr LLC, 2023
+  ООО "ОНЛАЙН ЛАБ", ИНН 6829146250
 copyRight: Copyright (c) 2020-2021 Henk Verlinde
 alert: false
 alertDismissable: true
