@@ -27,7 +27,7 @@ main:
   - name: Условия
     url: /terms
     weight: 11
-  - name: Политика Приватности
+  - name: Политика Конфиденциальности
     url: /privacy
     weight: 12
   # - name: Blog
